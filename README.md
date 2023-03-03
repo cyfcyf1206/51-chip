@@ -1,4 +1,4 @@
-# 51single-chip-microcomputer
+# 51-chip
 51单片机基础操作;
 使用c语言进行开发;
 使用装载了STC89C52RC等芯片的普中51单片机;
